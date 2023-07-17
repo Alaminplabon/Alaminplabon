@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alamin Biswas Plabon</h1>
- <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1689577110~exp=1689577710~hmac=e225860d1ac3f2b14cccb710e2b4b1d615680ff83f000aa16a770ac65269222a" alt=""/>
+ <img width="100" height="100"  src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1689577110~exp=1689577710~hmac=e225860d1ac3f2b14cccb710e2b4b1d615680ff83f000aa16a770ac65269222a" alt=""/>
 <h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
 
 
